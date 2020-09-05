@@ -28,4 +28,8 @@ SASS
 
 BootStrap
 
+<<<<<<< HEAD
 GitHub_Practice
+=======
+GitHub_Practice
+>>>>>>> bce0b8cf820784655ca49e968681854a36d3997b
